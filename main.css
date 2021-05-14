@@ -1,0 +1,35 @@
+.container {
+   padding-top: 40px;
+   padding-bottom: 40px;
+   width: 500px;
+   margin: 0 auto;
+   background-color: rgb(206, 238, 184);
+}
+
+p {
+   text-align: center;
+}
+
+h1{
+   text-align: center;
+   font-style: oblique;
+}
+.style {
+   padding: 20px;
+   font-size: 25px;
+}
+
+.btn {
+   padding: 20px;
+   font-size: 25px;
+}
+
+.ravno{
+   padding: 15px 30px 15px 30px;
+   font-size: 25px;
+}
+
+.select {
+   padding: 10px;
+   font-size: 25px;
+}
